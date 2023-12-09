@@ -26,7 +26,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 ## Current Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hridayroy19%20&theme=blueberry" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img  width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=hridayroy19%20&theme=blueberry" alt="GitHub Streak" /></a>
 
 
 
@@ -35,3 +35,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 [<p align="center"><img height="75" src="">](https://www.linkedin.com/in/hridoy-chandra-roy-9313732a4/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/hridayray.hriday.1/)
 
 <br /> 
+
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/hridoy-chandra-roy-9313732a4/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/hridayray.hriday.1/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://www.instagram.com/hridayrayhriday/)
+
+<br />
