@@ -3,16 +3,14 @@
 </a>
 <br>
 
-<h>
+<div align="center">
 
- <a  align="center">
+ <p >
 
 ### Hi there 👋 I am Hridoy Roy <br> Web Devoloper
- </a>
-</h> 
-
+ </p>
+</div> 
 <br>
-
 
 ##  About Me :
 
