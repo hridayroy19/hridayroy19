@@ -41,8 +41,6 @@ for learning & implementing new web technologies and standards. I’m currently 
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-</p>
-<p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
