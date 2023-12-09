@@ -51,9 +51,9 @@ for learning & implementing new web technologies and standards. I’m currently 
 <br />
 
 
-<h align="center">
+<div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayroy19&theme=react"/></h>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayroy19&theme=react"/></div>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hridayroy19&theme=react"/>
