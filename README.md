@@ -23,25 +23,25 @@ for learning & implementing new web technologies and standards. I’m currently 
 ## Socials:
 <br /> 
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/hridoy-chandra-roy-9313732a4/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/hridayray.hriday.1/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://www.instagram.com/hridayrayhriday/)
+[<p align="center"><img height="55" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/hridoy-chandra-roy-9313732a4/)[<img height="55" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Facebook.png">](https://www.facebook.com/hridayray.hriday.1/)[<img height="75" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Twitter.png"> </p>](https://www.instagram.com/hridayrayhriday/)
 
 <br />
 
 ## 💻 Technologies that I know :
 
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/HTML.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/css.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/JavaScript.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/react.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/tailwind.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Bootsrap.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/node.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/express.png"/>
+<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/mongo.png"/>
 </p><br/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayroy19&theme=react"/>
@@ -50,10 +50,10 @@ for learning & implementing new web technologies and standards. I’m currently 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hridayroy19&theme=react"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hridayroy19&theme=react"/>
 </p>
-<p align="center">
+<!-- <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridayroy19&theme=react"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hridayroy19&theme=react&utcOffset=8"/>
-</p>
+</p> -->
 
 <br>
 
