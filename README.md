@@ -29,6 +29,7 @@ for learning & implementing new web technologies and standards. I’m currently 
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hridayroy19&show_icons=true&locale=en&theme=tokyonight" alt="hridayroy19" />
     </a>
 </p>
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 
 ## 🛜 Socials:
 <br /> 
