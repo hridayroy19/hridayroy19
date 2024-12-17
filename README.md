@@ -32,6 +32,11 @@ for learning & implementing new web technologies and standards. I’m currently 
     </a>
 </p>
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridayroy19&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+    </a>
+  </div>
 
 ## 🛜 Socials:
 <br /> 
