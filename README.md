@@ -33,8 +33,9 @@ for learning & implementing new web technologies and standards. I’m currently 
 </p>
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 <div align=center>
+ <br /> 
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridayroy19&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+      <img height=170 width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridayroy19&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
     </a>
   </div>
 
