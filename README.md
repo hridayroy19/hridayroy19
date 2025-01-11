@@ -1,16 +1,12 @@
 <a href="https://www.facebook.com/hridayray.hriday.1/">
 <img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/banner2.png" width="100%" hight="50%" />
 </a>
-<br>
 
 <div align="center">
-
  <p >
-
 ### Hi there 👋 I am Hridoy Roy <br> Web Devoloper
  </p>
 </div> 
-<br>
 
 <h1 align="center"> About Me </h1>
 
@@ -27,13 +23,6 @@ for learning & implementing new web technologies and standards. I’m currently 
     <img
       width="390"
       src="https://streak-stats.demolab.com/?user=hridayroy19&theme=react&border=61dafb&hide_border=true"
-      alt="hridayroy19"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="margin: 10px;">
-    <img
-      width="390"
-      src="https://github-readme-stats.vercel.app/api?username=hridayroy19&show_icons=true&locale=en&theme=tokyonight"
       alt="hridayroy19"
     />
   </a>
