@@ -17,20 +17,24 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 </h4>
 
- <h1 align="center"> 🗺️ Current Stats  </h1>
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" style="margin: 10px;">
-  </a>
-   <a><img alt="hridayroy :: Top Langs]"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridayroy19&layout=donut&theme=radical&count_private=true&hide=html,css,scss,javascript">
-        </a>
-
-</div>
-
-
-
- 
-<br /> 
+ <h1 align="center"> Current GitHub Stats ⚡</h1>
+<br>
+<p align=center>
+  <div align=center>
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=hridayroy19&theme=react&border=61dafb&hide_border=true" alt="hriody" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hridayroy19&show_icons=true&locale=en&theme=tokyonight" alt="hriday" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridayroy19&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+    </a>
+  </div>
+  <br>
 
  <h1  align="center"> 🛜 Socials  </h1>
 <br /> 
