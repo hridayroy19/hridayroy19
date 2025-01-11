@@ -23,14 +23,34 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 ## 🗺️ Current Stats :
 
-<p align="center" href="https://git.io/streak-stats">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+<p align="center" display="flex" href="https://git.io/streak-stats">
+<!--   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=hridayroy19&theme=react&border=61dafb&hide_border=true" alt="hridayroy19" />
     </a>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hridayroy19&show_icons=true&locale=en&theme=tokyonight" alt="hridayroy19" />
     </a>
-</p>
+</p> -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" style="margin: 10px;">
+    <img
+      width="390"
+      src="https://streak-stats.demolab.com/?user=hridayroy19&theme=react&border=61dafb&hide_border=true"
+      alt="hridayroy19"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="margin: 10px;">
+    <img
+      width="390"
+      src="https://github-readme-stats.vercel.app/api?username=hridayroy19&show_icons=true&locale=en&theme=tokyonight"
+      alt="hridayroy19"
+    />
+  </a>
+</div>
+
+
+
+ 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 <div align=center>
  <br /> 
