@@ -12,7 +12,7 @@
 </div> 
 <br>
 
-##  About Me :
+<h1 align="center"> About Me </h1>
 
 <h4>
 
@@ -21,7 +21,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 </h4>
 
- <p  align="center"> 🗺️ Current Stats  </p>
+ <h1 align="center"> 🗺️ Current Stats  </h1>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" style="margin: 10px;">
     <img
@@ -50,7 +50,7 @@ for learning & implementing new web technologies and standards. I’m currently 
     </a>
   </div>
 
- <p  align="center"> 🛜 Socials  </p>
+ <h1  align="center"> 🛜 Socials  </h1>
 <br /> 
 
 [<p align="center"><img height="58" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/hridoy-chandra-roy-9313732a4/)[<img height="58" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Facebook.png">](https://www.facebook.com/hridayray.hriday.1/)[<img height="58" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Twitter.png"> </p>](https://www.instagram.com/hridayrayhriday/)
@@ -83,7 +83,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 <br/>
 
-<p  align="center"> Current overview  </p>
+<h1  align="center"> Current overview  </h1>
 ### 🔭 I’m Working - on online class Management. 
 ### 🌱 I’m exploring - Next js and MongoDB. 
 ### 👯 I’m looking - To collaborate on any unique projcet. 
