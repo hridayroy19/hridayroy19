@@ -21,7 +21,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 </h4>
 
-## 🗺️ Current Stats :
+ <p  align="center"> 🗺️ Current Stats  </p>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" style="margin: 10px;">
     <img
@@ -50,7 +50,7 @@ for learning & implementing new web technologies and standards. I’m currently 
     </a>
   </div>
 
-## 🛜 Socials:
+ <p  align="center"> 🛜 Socials  </p>
 <br /> 
 
 [<p align="center"><img height="58" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/hridoy-chandra-roy-9313732a4/)[<img height="58" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Facebook.png">](https://www.facebook.com/hridayray.hriday.1/)[<img height="58" src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/Twitter.png"> </p>](https://www.instagram.com/hridayrayhriday/)
@@ -83,9 +83,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 <br/>
 
-## Current overview :
-
-
+<p  align="center"> Current overview  </p>
 ### 🔭 I’m Working - on online class Management. 
 ### 🌱 I’m exploring - Next js and MongoDB. 
 ### 👯 I’m looking - To collaborate on any unique projcet. 
