@@ -70,11 +70,11 @@ for learning & implementing new web technologies and standards. I’m currently 
 <br/>
 
 <h1  align="center"> Current overview  </h1>
-### 🔭 I’m Working - on online class Management. 
-### 🌱 I’m exploring - Next js and MongoDB. 
-### 👯 I’m looking - To collaborate on any unique projcet. 
-### 🤔 I’m trying - To Devlop My  Skills
-### ⚡ Fun fact -I love to make desing and I try to english speak  languages 😁 
+<p>🔭 I’m Working - on online class Management. </p>
+ <P>🌱 I’m exploring - Next js and MongoDB. </P>
+ <P>👯 I’m looking - To collaborate on any unique projcet. </P>
+ <P>🤔 I’m trying - To Devlop My  Skills</P>
+ <P>⚡ Fun fact -I love to make desing and I try to english speak  languages 😁 </P>
 <br />
 
 
