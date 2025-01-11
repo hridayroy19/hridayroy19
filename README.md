@@ -23,7 +23,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 ## 🗺️ Current Stats :
 
-<p align="center" display="flex" href="https://git.io/streak-stats">
+
 <!--   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=hridayroy19&theme=react&border=61dafb&hide_border=true" alt="hridayroy19" />
     </a>
