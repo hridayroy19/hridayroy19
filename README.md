@@ -3,9 +3,9 @@
 </a>
 
 <div align="center">
- <p >
-### Hi there 👋 I am Hridoy Roy <br> Web Devoloper
- </p>
+ <h4 >
+ Hi there 👋 I am Hridoy Roy <br> Web Devoloper
+ </h4>
 </div> 
 
 <h1 align="center"> About Me </h1>
