@@ -26,6 +26,9 @@ for learning & implementing new web technologies and standards. I’m currently 
       alt="hridayroy19"
     />
   </a>
+  <a  align="center"><img align="center"
+                src="https://github-readme-streak-stats.herokuapp.com?user=hridayroy19&theme=radical&hide_border=true">
+        </a>
 </div>
 
 
