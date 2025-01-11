@@ -51,7 +51,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 
 
  
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+<br /> <br /> <br />
 <div align=center>
  <br /> 
     <a href="https://github.com/anuraghazra/github-readme-stats">
