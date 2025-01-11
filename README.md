@@ -88,11 +88,6 @@ for learning & implementing new web technologies and standards. I’m currently 
 <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayroy19&theme=react"/></div>
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hridayroy19&theme=react"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hridayroy19&theme=react"/>
-</p>
 <br>
 
 ## Projcet :
