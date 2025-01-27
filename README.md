@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/hridayray.hriday.1/">
-<img src="https://raw.githubusercontent.com/hridayroy19/hridayroy19/main/images/icons/banner2.png" width="100%" hight="50%" />
+<img src="https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif" width="100%" hight="100%" />
 </a>
 
 <div align="center">
