@@ -3,9 +3,11 @@
 </a>
 
 <div align="center">
- <h4 >
- Hi there 👋 I am Hridoy Roy <br> Web Devoloper
- </h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Rime+Islam+Rimu...;A+MERN+%26+PREN+stack+developer...)](https://git.io/typing-svg)
+![I am Full stack developer]
+<br>
+
+ 
 </div> 
 
 <h1 align="center"> About Me </h1>
