@@ -66,7 +66,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 ![Brave](https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <br/>
-<img align="right" alt="coding" height="300" src="https://i.pinimg.com/736x/04/c5/33/04c5333de27fa3c5ca0282dd241c0922.jpg">
+<img align="right" alt="coding" height="300" src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png">
 <h1  align="center"> Current overview  </h1>
 <p>🔭 I’m Working - on online class Management. </p>
  <P>🌱 I’m exploring - Next js and MongoDB. </P>
