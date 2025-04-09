@@ -66,20 +66,23 @@ for learning & implementing new web technologies and standards. I’m currently 
 ![Brave](https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <br/>
+<br/>
+<br/>
 
-<img align="right" alt="coding" height="300" src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png">
+
+<img align="right" alt="coding" height="350" src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png">
 
 - 🔭 I’m currently working on *React.js, Next.js, Typescript*
 
-- 🌱 I’m currently learning socket. oi.
+- 🌱 I’m currently My Sql.
 
 - 👯 I’m looking to collaborate on *GitHub*
 
-- 💬 Ask me about *express.js, prisma, typescript, next.js*
+- 💬 Ask me about *express.js, typescript, next.js*
   
-- 📫 How to reach me: rimeislam672@gmail.com 
+- 📫 How to reach me: hrhridoyroy503@gmail.com
 
-- ⚡ Fun fact:  I'm an aspiring baker! I enjoy creating delicious cakes almost as much as I love crafting code.
+- ⚡ Fun fact: I love coding and cricket — sometimes I hit bugs, sometimes I hit sixes... and sometimes I bowl both! 😄🏏💻
 
 
 <br />
