@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Hridoy+Chandra+Roy...;A+MERN+%26+PREN+stack+developer...;I+am+Full+stack+developer..)](https://git.io/typing-svg)
 
 <a href="https://www.facebook.com/hridayray.hriday.1/">
-<img src="https://i.ibb.co.com/4ZjkZdQ1/Blue-and-White-Futuristic-Marketing-Linked-In-Banner-2.png" width="100%" hight="100%" />
+<img src="https://i.ibb.co.com/Zpyqn7G4/Blue-and-White-Futuristic-Marketing-Linked-In-Banner-3.png" width="100%" hight="100%" />
 </a>
 <h1 align="center"> About Me </h1>
 
