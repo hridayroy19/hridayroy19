@@ -66,28 +66,23 @@ for learning & implementing new web technologies and standards. I’m currently 
 ![Brave](https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <br/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%;">
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-<div>
+  <!-- Text Block -->
+  <div style="max-width: 500px; text-align: left; padding: 10px;">
+    <h1>🌟 Current Overview</h1>
+    <p>🔭 I’m Working – on an <strong>Online Class Management</strong> system.</p>
+    <p>🌱 I’m exploring – <strong>Next.js</strong> and <strong>MongoDB</strong>.</p>
+    <p>👯 I’m looking – to collaborate on any <strong>unique project</strong>.</p>
+    <p>🤔 I’m trying – to <strong>develop my skills</strong>.</p>
+    <p>⚡ Fun fact – I love to <strong>design</strong> and I’m practicing <strong>spoken English</strong> 😁</p>
+  </div>
 
-<h1 align="center">🌟 Current Overview</h1>
-
-- 🔭 I’m Working – on an **Online Class Management** system.  
-- 🌱 I’m exploring – **Next.js** and **MongoDB**.  
-- 👯 I’m looking – to collaborate on any **unique project**.  
-- 🤔 I’m trying – to **develop my skills**.  
-- ⚡ Fun fact – I love to **design** and I'm trying to **speak English fluently** 😁  
-
-</div>
-
-<!-- Image -->
-<img align="right" alt="coding" height="280" src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png" />
+  <!-- Image Block -->
+  <img src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png" alt="coding" height="280" style="margin-left: 20px;" />
 
 </div>
 
-
-
- 
 <br />
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayroy19&theme=react"/></div>
