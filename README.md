@@ -67,7 +67,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <br/>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 <div>
 
 <h1 align="center">🌟 Current Overview</h1>
