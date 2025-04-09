@@ -67,10 +67,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <br/>
 <br/>
-<br/>
-
-
-<img align="right" alt="coding" height="350" src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png">
+<img align="right" alt="coding" height="320" src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png">
 
 - 🔭 I’m currently working on *React.js, Next.js, Typescript*
 
