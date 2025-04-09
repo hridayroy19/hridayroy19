@@ -65,8 +65,6 @@ for learning & implementing new web technologies and standards. I’m currently 
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-
 <br/>
 
 <h1  align="center"> Current overview  </h1>
@@ -76,49 +74,7 @@ for learning & implementing new web technologies and standards. I’m currently 
  <P>🤔 I’m trying - To Devlop My  Skills</P>
  <P>⚡ Fun fact -I love to make desing and I try to english speak  languages 😁 </P>
 <br />
-
-
 <div align="center">
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridayroy19&theme=react"/></div>
 <br>
 
-## Projcet :
-### Building_management-Projcet
-<br>
-
- 🔗link: https://building-menagemant.web.app/ <br>
-
-    future of the projcet: 
- . There is a login and registation page <br>
- . There is google Authenthication (firebase) <BR>
- . There is a add Admin route and user route (use jwt)<BR>
- . There is a buy a any building <br>
- . Use payment system (strype)
-
-## Projcet :
-### birthday managemnet 
-<br>
-
- 🔗link :https://brithday-partics.web.app <br>
-
-
-    future of the projcet:
-. Projcet it is basically done for birthday event first adding 6 birthday event cards <br>
-. Clicking the View Details button will show event photo image name details <br>
-. The details are private and can be viewed without login and the login page has many types of alerts that are very useful for users. <br>
-. Error page will show if wrong path is created <br>
-. If you want to go to the event view details in Progest, you have to  register first and then you can see it after logging in. Event cards are    dynamically crated
-
-## Projcet :
-### Brand shop product
-<br>
-
- 🔗link:  https://brand-product-f7e0a.web.app <br>
-
-    future of the projcet: 
-
-1: DynaSim card is used which is coming with Mongadva server <br>
-2:Clicking on any brand will show the same brand 4 , <br>
-3:Done with firebase authuthication <br>
-4:Add product cap will be added 5:Connect with Google
