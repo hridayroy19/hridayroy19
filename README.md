@@ -69,7 +69,7 @@ for learning & implementing new web technologies and standards. I’m currently 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%;">
 
   <!-- Text Block -->
-  <div style="max-width: 500px; text-align: left; padding: 10px;">
+  <div style="max-width: 500px; text-align: ">
     <h1>🌟 Current Overview</h1>
     <p>🔭 I’m Working – on an <strong>Online Class Management</strong> system.</p>
     <p>🌱 I’m exploring – <strong>Next.js</strong> and <strong>MongoDB</strong>.</p>
@@ -79,7 +79,7 @@ for learning & implementing new web technologies and standards. I’m currently 
   </div>
 
   <!-- Image Block -->
-  <img src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png" alt="coding" height="280" style="margin-left: 20px;" />
+  <img src="https://i.ibb.co.com/NdV6GsJp/04c5333de27fa3c5ca0282dd241c0922-removebg-preview.png" alt="coding" height="280" />
 
 </div>
 
