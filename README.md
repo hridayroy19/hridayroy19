@@ -2,13 +2,8 @@
 <img src="https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif" width="100%" hight="100%" />
 </a>
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Rime+Islam+Rimu...;A+MERN+%26+PREN+stack+developer...)](https://git.io/typing-svg)
-![I am Full stack developer]
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello👋%2C+I'm+Hridoy+Chandra+Roy...;A+MERN+%26+PREN+stack+developer...;I+am+Full+stack+developer..)](https://git.io/typing-svg)
 
- 
-</div> 
 
 <h1 align="center"> About Me </h1>
 
